@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Salem Mohamed]!
+# 👋 Hello, I'm Salem Mohamed
 
 ### I'm a passionate Front-End Developer | JavaScript | Next.js | React | TypeScript Enthusiast
 
@@ -57,9 +57,8 @@ Currently, I'm deepening my knowledge of front-end frameworks like Next.js and t
 
 ## 🤝 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/salem-mohamed-2bbaa3245/)
+- Email: [your-email@example.com](mailto:salemmohamed7300gmail.com)
 
 ---
 
