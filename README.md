@@ -33,18 +33,9 @@ Currently, I'm deepening my knowledge of front-end frameworks like Next.js and t
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=react" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&theme=react" />
-</p>
 
 ---
-
-
 
 
 ## 💼 Currently Learning
