@@ -31,7 +31,6 @@ Currently, I'm deepening my knowledge of front-end frameworks like Next.js and t
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)
 
 
 
@@ -48,8 +47,8 @@ Currently, I'm deepening my knowledge of front-end frameworks like Next.js and t
 
 ## 🤝 Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/salem-mohamed-2bbaa3245/)
-- Email: [your-email@example.com](mailto:salemmohamed7300gmail.com)
+- LinkedIn: [https://www.linkedin.com/salem-mohamed](https://www.linkedin.com/in/salem-mohamed-2bbaa3245/)
+- Email: [salemmohamed@gmail.com](mailto:salemmohamed7300gmail.com)
 
 ---
 
